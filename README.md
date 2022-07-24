@@ -60,4 +60,5 @@ This is where you'll get different information about each of the features in you
 ## Log
 Almost daily updates of what's happening.
 
+* 24 Jul 2022 - Finished tthis project....
 * 12 Jul 2022 - started this project and pepared the data for the project.
