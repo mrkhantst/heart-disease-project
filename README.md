@@ -1,16 +1,17 @@
-# heart-disease-project
+# Heart Disease Prediction
+A machine learning model to predict heart disease posibility based on medical attributes.
 
-This is heart disease project for my machine learning carrier. You can try it, it is a good project.
+It is a great project for my machine learning career. Feel free to give it a try.
 
-## Environment for this project
+## Dependencies
 1. Pandas
 2. NumPy
 3. Matplotlib
 4. Sckikit-Learn
 
-# Predicting heartdisease using machine learning
+## Descriptions
 
-This notebook looks into using various Python-based machine learning and data science libaries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
+This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
 We're going to take the following approach:
 1. Problem defination
@@ -20,22 +21,22 @@ We're going to take the following approach:
 5. Modelling
 6. Experimentation
 
-## 1. Problem Defination
+### 1. Problem Definition
 
 In a statement,
-> Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+> Given clinical parameters about a patient, can we predict whether they have heart disease?
 
-## 2. Data
+### 2. Dataset Preparation
 
 The original data came from the Clavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 There is also a verion of it avaliable on Kaggle. https://www.kaggle.com/c/heart-disease-uci/data
 
-## 3. Evaluation
+### 3. Evaluation
 
-> If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll purse the project.
+> If we can reach 95% accuracy at predicting whether a patient has heart disease during the proof of concept, we'll purse the project.
 
-## 4. Features
+### 4. Features
 
 This is where you'll get different information about each of the features in your data.
 
@@ -60,5 +61,5 @@ This is where you'll get different information about each of the features in you
 ## Log
 Almost daily updates of what's happening.
 
-* 24 Jul 2022 - Finished tthis project....
-* 12 Jul 2022 - started this project and pepared the data for the project.
+* 24 Jul 2022 - Finished this project....
+* 12 Jul 2022 - Started this project and pepared the data for the project.
